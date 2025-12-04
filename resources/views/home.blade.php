@@ -25,7 +25,7 @@
 
     <x-specialties />
 
-    <section id="duvidas" class="bg-clinic-secondary py-16">
+    <section id="duvidas" class="bg-clinic-secondary pt-12 pb-16 md:py-16">
         <div class="max-w-6xl mx-auto px-4">
             <div class="text-center space-y-4">
                 <p class="text-sm font-semibold uppercase tracking-[0.3em] text-[#9e8e7a]">Dúvidas</p>

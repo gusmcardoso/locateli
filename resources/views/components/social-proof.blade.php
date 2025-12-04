@@ -102,7 +102,7 @@
             </div>
             <h2 class="text-3xl font-bold text-clinic-ink">Algumas avaliações dos nossos pacientes!</h2>
             <p class="max-w-2xl mx-auto text-clinic-ink/80">
-                Arraste lateralmente para visualizar as avaliações em 3D e sinta o carrossel girar ao redor de você.
+                Veja o que nossos clientes dizem sobre nós e seja você também um cliente satisfeito!
             </p>
         </div>
         <div class="mt-12 space-y-8">
