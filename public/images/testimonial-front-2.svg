@@ -1,0 +1,31 @@
+<svg width="360" height="480" viewBox="0 0 360 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fdf3ea" />
+      <stop offset="100%" stop-color="#f2dcca" />
+    </linearGradient>
+    <linearGradient id="accent2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c7a07c" />
+      <stop offset="100%" stop-color="#a4896e" />
+    </linearGradient>
+  </defs>
+  <rect width="360" height="480" rx="36" fill="url(#bg2)" />
+  <rect x="30" y="44" width="300" height="392" rx="30" fill="#fff" />
+  <rect x="30" y="44" width="300" height="392" rx="30" fill="url(#accent2)" opacity="0.05" />
+  <circle cx="80" cy="110" r="32" fill="#fdf3ea" stroke="#e4cbb1" stroke-width="3" />
+  <path d="M80 82 L88 104 L112 104 L92 119 L100 142 L80 128 L60 142 L68 119 L48 104 L72 104 Z" fill="#b5835b" />
+  <text x="124" y="104" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="20" font-weight="600" fill="#3e352c">Leandro Prado</text>
+  <text x="124" y="130" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="14" fill="#a4896e">Fisioterapia Esportiva</text>
+  <text x="54" y="182" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="46" fill="#e6d4c4">“</text>
+  <text x="54" y="212" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="16" fill="#4a4036">
+    A tecnologia utilizada nas avaliações e o plano personalizado encurtaram meu retorno
+    aos treinos. Senti evolução desde a primeira semana.
+  </text>
+  <text x="54" y="272" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="16" fill="#4a4036">
+    Profissionais atentos aos detalhes e com excelente comunicação.
+  </text>
+  <rect x="54" y="320" width="252" height="60" rx="26" fill="#f4e6da" />
+  <text x="72" y="356" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="14" fill="#856d55">
+    Programa de reabilitação funcional completo.
+  </text>
+</svg>

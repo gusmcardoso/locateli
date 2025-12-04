@@ -36,7 +36,7 @@
 <section id="servicos" class="bg-white py-16">
     <div class="max-w-6xl mx-auto px-4">
         <div class="text-center space-y-4">
-            <p class="text-sm font-semibold uppercase tracking-[0.3em] text-clinic-primary">Especialidades</p>
+            <p class="text-sm font-semibold uppercase tracking-[0.3em] text-[#9e8e7a]">Especialidades</p>
             <h2 class="text-3xl font-bold text-clinic-ink">Saiba como podemos te ajudar!</h2>
             <p class="max-w-3xl mx-auto text-clinic-ink/80">
                 Protocolos integrados que unem diagnóstico digital, planejamento interdisciplinar e acompanhamento humanizado.

@@ -24,9 +24,9 @@
                         },
                         colors: {
                             clinic: {
-                                primary: '#0d9488',
+                                primary: '  #9e8e7a',
                                 secondary: '#f9fafb',
-                                accent: '#0f766e',
+                                accent: '   #9e8e7a',
                                 canvas: '#f5f5f4',
                                 ink: '#1f2933',
                             },

@@ -1,0 +1,30 @@
+<svg width="360" height="480" viewBox="0 0 360 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8f2ec" />
+      <stop offset="100%" stop-color="#e8d7c7" />
+    </linearGradient>
+    <linearGradient id="accent3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d0a782" />
+      <stop offset="100%" stop-color="#9f8c78" />
+    </linearGradient>
+  </defs>
+  <rect width="360" height="480" rx="40" fill="url(#bg3)" />
+  <rect x="32" y="48" width="296" height="384" rx="28" fill="#fff" />
+  <circle cx="84" cy="108" r="30" fill="#f8f2ec" stroke="#d8c2ae" stroke-width="3" />
+  <path d="M84 84 L92 102 L112 102 L96 116 L102 136 L84 124 L66 136 L72 116 L56 102 L76 102 Z" fill="#c4976d" />
+  <text x="122" y="102" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="20" font-weight="600" fill="#3b332b">Renata Silva</text>
+  <text x="122" y="128" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="14" fill="#9b8670">Pacientes 60+</text>
+  <text x="52" y="184" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="44" fill="#e2d1c0">“</text>
+  <text x="52" y="212" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="16" fill="#4a4036">
+    Encontrei acompanhamento gentil e exercícios adaptados às minhas limitações. A cada
+    consulta ganhei confiança e autonomia.
+  </text>
+  <text x="52" y="270" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="16" fill="#4a4036">
+    A clínica tem ambiente calmo e organizado, perfeito para quem busca tranquilidade.
+  </text>
+  <rect x="52" y="320" width="256" height="58" rx="24" fill="url(#accent3)" opacity="0.18" />
+  <text x="70" y="352" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="14" fill="#7f6a55">
+    Plano terapêutico com foco em equilíbrio e mobilidade.
+  </text>
+</svg>

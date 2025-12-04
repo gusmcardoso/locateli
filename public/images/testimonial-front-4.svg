@@ -1,0 +1,30 @@
+<svg width="360" height="480" viewBox="0 0 360 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef6ec" />
+      <stop offset="100%" stop-color="#ead6c2" />
+    </linearGradient>
+    <linearGradient id="accent4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d8af89" />
+      <stop offset="100%" stop-color="#a88f76" />
+    </linearGradient>
+  </defs>
+  <rect width="360" height="480" rx="36" fill="url(#bg4)" />
+  <rect x="34" y="52" width="292" height="376" rx="34" fill="#fff" />
+  <circle cx="90" cy="116" r="28" fill="#fef6ec" stroke="#dec4a9" stroke-width="3" />
+  <path d="M90 94 L96 108 L112 108 L98 120 L104 138 L90 128 L76 138 L82 120 L68 108 L84 108 Z" fill="#b48762" />
+  <text x="126" y="112" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="20" font-weight="600" fill="#3f362d">Dr. Hugo Amaral</text>
+  <text x="126" y="138" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="14" fill="#a88f76">Ortopedista Parceiro</text>
+  <text x="56" y="188" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="46" fill="#e5d0bd">“</text>
+  <text x="56" y="218" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="16" fill="#4a4036">
+    A sinergia entre a equipe médica e a fisioterapia garante protocolos consistentes e
+    resultados rápidos para meus pacientes.
+  </text>
+  <text x="56" y="276" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="16" fill="#4a4036">
+    É um prazer indicar a Clínica Locateli como extensão do nosso cuidado integral.
+  </text>
+  <rect x="56" y="324" width="248" height="60" rx="30" fill="#f3e2d1" />
+  <text x="74" y="358" font-family="'Poppins', 'Segoe UI', sans-serif" font-size="14" fill="#866f5a">
+    Equipe integrada em casos complexos de ortopedia.
+  </text>
+</svg>
