@@ -1,12 +1,13 @@
 <section id="hero" class="relative overflow-hidden bg-white">
     <div class="absolute inset-0">
         <img
-            src="{{ asset('images/bruna3.jpg') }}"
+            src="{{ asset('images/brunalogo.jpg') }}"
             alt="Dra. Bruna Locatelli"
             class="h-full w-full object-cover object-[70%]"
+            style="filter: contrast(1.25) saturate(1.15);"
         >
-        <div class="absolute inset-0 bg-gradient-to-r from-white via-white/85 to-transparent"></div>
-        <div class="absolute inset-0 bg-gradient-to-t from-white/30 via-transparent to-white/5"></div>
+        <div class="absolute inset-0 bg-gradient-to-r from-white/70 via-[#fef6ef]/40 to-transparent"></div>
+        <div class="absolute inset-0 bg-gradient-to-t from-white/10 via-transparent to-[#f0c6a4]/20 mix-blend-multiply"></div>
     </div>
     <div class="relative mx-auto flex min-h-[520px] max-w-6xl items-center px-4 py-20 sm:px-6 lg:px-8">
         <div class="max-w-2xl space-y-6 text-left">
