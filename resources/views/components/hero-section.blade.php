@@ -15,6 +15,32 @@
                     margin-left: 90px;
                     width: calc(100% + 90px);
                 }
+
+                #hero > div {
+                    align-items: flex-start !important;
+                }
+
+                .hero-content {
+                    padding-top: 0 !important;
+                    padding-bottom: 0;
+                    margin-top: 0 !important;
+                }
+
+                .hero-content > p:first-child {
+                    display: none;
+                }
+
+                .hero-content h1 {
+                    font-size: 1.62rem;
+                    position: relative;
+                    top: -29.4px;
+                    margin-bottom: 1.5rem;
+                }
+
+                .hero-content > div:last-child {
+                    position: relative;
+                    margin-top: 0;
+                }
             }
         </style>
     @endpush
@@ -45,15 +71,12 @@
             );"
         ></div>
     </div>
-    <div class="relative mx-auto flex min-h-[520px] max-w-6xl items-center px-4 py-20 sm:px-6 lg:px-8">
-        <div class="max-w-2xl space-y-6 text-left">
+    <div class="relative mx-auto flex min-h-[520px] max-w-6xl md:items-center px-4 py-4 md:py-20 sm:px-6 lg:px-8">
+        <div class="hero-content max-w-2xl space-y-6 text-left">
             <p class="text-sm font-semibold tracking-[0.3em] uppercase text-[#9e8e7a]">Tecnologia e acolhimento</p>
             <h1 class="text-4xl font-bold leading-tight text-clinic-ink sm:text-5xl">
                 Excelência em odontologia completa para toda a família.
             </h1>
-            <p class="text-base text-clinic-ink/80">
-                Cuidamos do seu sorriso com tecnologia, conforto e um atendimento humanizado pensado para cada fase da sua vida.
-            </p>
             <div class="flex flex-wrap gap-4">
                 <a
                     href="https://api.whatsapp.com/message/PNW6RMD5E2GXP1?autoload=1&app_absent=0"
